@@ -1,1 +1,1 @@
-# Vamos a crear la lógica que seguirá la API
+# Aquí configuraremos todo el tema de la lógica de la API y el request hacia nuestro proyecto
